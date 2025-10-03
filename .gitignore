@@ -1,0 +1,12 @@
+# Angular
+node_modules/
+dist/
+
+# Flask
+__pycache__/
+*.pyc
+.env
+
+# Windows
+Thumbs.db
+.DS_Store
